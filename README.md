@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @PrinceTimilsina
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning JavaScript
-- ⚡ Fun fact: I am Curious
+- 👋
+-  Hi, I’m @PrinceTimilsina
+-  
+- 👀
+-  I’m interested in Learning
+- 
+- 🛸
+- I’m currently learning JavaScript
+- 
+- ⚡
+-  Fun fact: I am Curious
 
 <!---
 PrinceTimilsina/PrinceTimilsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
