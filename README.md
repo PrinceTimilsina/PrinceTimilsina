@@ -1,6 +1,6 @@
  👋 Hey, I’m @PrinceTimilsina
                             
- 👀 I’m interested in Learning 
+ 👀 I’m interested in Learning✨
  
  🛸I’m currently learning JavaScript..
  
