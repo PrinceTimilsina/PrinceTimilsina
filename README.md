@@ -1,4 +1,4 @@
- 👋 Hey, I’m @PrinceTimilsina
+ 👋 Hey, I’m Prince
                             
  👀 I’m interested in Learning✨
  
