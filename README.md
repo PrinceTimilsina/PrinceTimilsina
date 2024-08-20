@@ -2,7 +2,7 @@
                             
  👀 I’m interested in Learning✨
  
- 🛸I’m currently learning JavaScript and C++     
+ 🛸I’m currently learning JavaScript and C++
  
 ⚡ Fun fact: I am Curious Explorer
 <!---
