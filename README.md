@@ -1,4 +1,4 @@
- 👋 Hey, I’m Prince.
+ 👋 Hey, I’m Prince.T
                             
  👀 I’m interested in Learning C++✨
  
