@@ -1,6 +1,6 @@
  👋 Hey, I’m Prince.T
                             
- 👀 I’m interested in Learning C++✨
+ 👀 I’m interested in Learning✨
  
  🛸I’m currently learning JS........
  
