@@ -1,4 +1,4 @@
- 👋 Hey, I’m Prince.T
+ 👋 Hey, I’m Prince.Timilsina
                             
  👀 I’m interested in Learning✨
  
