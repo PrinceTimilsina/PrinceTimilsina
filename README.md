@@ -1,6 +1,6 @@
  👋 Hey, I’m Prince.Timilsina
                             
- 👀 I’m interested in Learning✨
+ 👀 I’m interested in Learning✨          
  
  🛸I’m currently learning JS,C++,React
  
