@@ -32,4 +32,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/PrinceTimilsina/PrinceTimilsina/output/github-snake.svg" />
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>👀Github Visits :</h3>
+<div align="center">
+<img  src="https://profile-counter.glitch.me/PrinceTimilsina/count.svg" />
+</div>
+
