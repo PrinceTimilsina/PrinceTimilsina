@@ -34,7 +34,5 @@
 </picture>
 
 <h3>👀Github Visits :</h3>
-<div align="center">
-<img  src="https://profile-counter.glitch.me/PrinceTimilsina/count.svg" />
-</div>
+
 
