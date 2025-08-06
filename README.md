@@ -33,6 +33,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/PrinceTimilsina/PrinceTimilsina/output/github-snake.svg" />
 </picture>
 
-<h3>👀Github Visits :</h3>
+
 
 
