@@ -1,4 +1,4 @@
-# 💫 About Me:   
+# 💫 About Me:    
 🌱 I’m currently a student with a passion for learning and exploring new ideas. <br>      
 👨‍💻 Currently exploring GitHub, & building creative projects<br>   
 🎯 Goals: Master problem-solving, build innovative solutions, and contribute to open-source communities.<br>              
