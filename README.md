@@ -34,6 +34,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/PrinceTimilsina/PrinceTimilsina/output/github-snake.svg" />
 </picture>
 
+[![](https://visitcount.itsvg.in/api?id=PrinceTimilsina&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 
 
