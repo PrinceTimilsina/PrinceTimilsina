@@ -1,5 +1,30 @@
-About Me:<br>HI ! I’m Prince — a computer science student focused on building real, useful products.
-My interests lie at the intersection of web development, AI, and product thinking. I prefer learning by building, whether that means shipping small tools, experimenting with new technologies, or refining user experiences. Currently working with JavaScript, React, and modern web tools, while exploring AI-driven applications and scalable systems..<br><br>🎯 Goals: My mission is to master problem-solving, design smart solutions, and make an impact through meaningful projects. I aim to combine creativity with logic to build things that matter.<br><br>⚡ Fun fact: I see every bug as a puzzle, every challenge as an opportunity, and every project as a chance to learn something new. Outside of coding, I love exploring tech trends, brainstorming ideas, and sharing knowledge with others.<br><br>🌱 Always growing: I believe in continuous learning and never settling. Each day is a chance to become a better developer, thinker, and creator.<br><br>📫 How to reach me:<br><br>timilsinaprince.js@gmail.com                    
+# 👋 Hi, I'm Prince Timilsina
+
+**+2 Science Student (Computer Major) | Aspiring Tech Entrepreneur**
+
+I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
+My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
+
+### 💻 Currently Exploring
+* JavaScript, React & modern web development
+* AI-powered applications
+* Learning Backend development & scalable systems
+* Problem-solving and software architecture
+### What I'm Working Toward?
+My goal is to become a strong **problem solver and software developer** who can combine creativity with logic to build technology that is genuinely useful.
+I believe the best way to learn is to **build, break, improve, and build again.**
+
+### A Little About Me:
+
+I see every bug as a puzzle and every project as an opportunity to learn something new. Outside of coding, I enjoy **exploring emerging technologies, brainstorming product ideas, experimenting with new tools, and sharing what I learn.**
+
+🌱 **Always learning. Always building. Always improving.**
+
+### 🌐 Find :
+
+* **Portfolio:** [princetimilsina.com.np](https://princetimilsina.com.np/)
+* **Email:** [timilsinaprince.js@gmail.com](mailto:timilsinaprince.js@gmail.com)
+               
                   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
