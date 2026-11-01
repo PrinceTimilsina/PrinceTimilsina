@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Prince Timilsina
-
-**+2 Science Student (Computer Major) | Aspiring Tech Entrepreneur**
+# 👋 Hi, I'm Prince
+**Aspiring Tech Entrepreneur**
 
 I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
 My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
 
 ### 💻 Currently Exploring
-* JavaScript, React & modern web development
+* React & modern web development
 * AI-powered applications
-* Learning Backend development & scalable systems
+* Space technology & NASA open data
 * Problem-solving and software architecture
 ### What I'm Working Toward?
 My goal is to become a strong **problem solver and software developer** who can combine creativity with logic to build technology that is genuinely useful.
