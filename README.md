@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Prince
+<p align="center">
+  <img src="./assets/github banner.png" alt="GitHub Profile Banner" width="100%" />
+</p>
 **Aspiring Tech Entrepreneur**
 
 I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
