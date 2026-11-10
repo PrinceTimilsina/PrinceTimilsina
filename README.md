@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./assets/github banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
-**Aspiring Tech Entrepreneur**
+**Creative Technologist & Tech Entrepreneur**
 
 I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
 My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
