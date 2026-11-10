@@ -12,27 +12,42 @@ My interests sit at the intersection of **web development, artificial intelligen
 
 ---
 
+
 ## Current Work & Initiatives
 
 ### Project Astra
 
-<img src="https://raw.githubusercontent.com/PrinceTimilsina/PROJECTASTRA/main/assets/logomain.png" alt="Project Astra Logo" width="180" align="left" />
+<img align="left" width="160" src="https://raw.githubusercontent.com/PrinceTimilsina/PROJECTASTRA/main/assets/logomain.png" alt="Project Astra Logo" />
 
-Working with a team on a Martian exploration and mapping experience focused on **Jezero Crater**, exploring planetary data, interactive mapping, and future exploration.
+**Project ASTRA is an emerging research and technology initiative driven by curiosity, scientific exploration, and engineering innovation.**
 
-<br clear="left"/>
+We are a team of individuals brought together by a shared interest in technology, space science, and the possibilities that lie beyond our planet.
+
+Our initiative represents an opportunity to explore ideas beyond conventional boundaries, connect scientific curiosity with technological thinking, and work collaboratively toward meaningful innovation.
+
+<br clear="left" />
 
 ### Technology Research & Innovation
 
-Exploring software architecture, emerging technologies, and opportunities to experiment with new ideas and contribute to the technology ecosystem.
+<img align="left" width="160" src="./assets/Startup%20dev%20%F0%9F%92%BB.jpeg" alt="Technology Research and Innovation" />
 
----
+I actively explore emerging technologies, software architecture, and new approaches to solving technical problems. My interests include understanding how technologies work, experimenting with new tools, and exploring ideas that can lead to practical applications.
+
+I believe research and experimentation are essential to building better technology. I aim to keep learning, testing ideas, and contributing to the broader technology ecosystem.
+
+<br clear="left" />
 
 ## Entrepreneurship & Innovation
 
-I'm interested in **technology entrepreneurship, product thinking, and building sustainable technology-driven ventures.** I enjoy identifying opportunities, understanding real-world problems, and transforming ideas into meaningful products.
+<img align="left" width="160" src="./assets/tech.jpeg" alt="Technology Entrepreneurship" />
+
+I'm deeply interested in technology entrepreneurship, product thinking, and building sustainable technology-driven ventures.
+
+I enjoy identifying opportunities, understanding real-world problems, and exploring how innovative ideas can become useful products. For me, entrepreneurship is about combining technical knowledge, creativity, and strategic thinking to create solutions with real-world value.
 
 **National Business Idea Pitching Contest '26 — Finalist**
+
+<br clear="left" />
 
 ---
 
