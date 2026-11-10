@@ -67,5 +67,5 @@ I enjoy exploring emerging technologies, brainstorming product ideas, experiment
 
 ## Find Me Around the Web
 
-- **Portfolio:** [princetimilsina.com.np](https://princetimilsina.com.np/)
+- **Portfolio:** [princetimilsina.com.np](https://princetimilsina.com/)
 - **Email:** [timilsinaprince.js@gmail.com](mailto:timilsinaprince.js@gmail.com)
