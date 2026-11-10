@@ -11,6 +11,9 @@ My interests sit at the intersection of **web development,Artificial Intelligenc
 
 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗪𝗢𝗥𝗞 & 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗜𝗩𝗘𝗦 <br>
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘀𝘁𝗿𝗮<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrinceTimilsina/PROJECTASTRA/main/assets/logomain.png" alt="Project Astra Logo" width="180">
+</p>
 Working with a team on a Martian exploration and mapping experience focused on Jezero Crater, exploring planetary data, interactive mapping, and future exploration.
 <br>
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 & 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻
