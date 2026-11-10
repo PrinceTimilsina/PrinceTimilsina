@@ -9,11 +9,17 @@
 I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
 My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
 
-### 💻 Currently Exploring
-* React & modern web development
-* AI-powered applications
-* Space technology & NASA open data
-* Problem-solving and software architecture
+𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗪𝗢𝗥𝗞 & 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗜𝗩𝗘𝗦
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘀𝘁𝗿𝗮
+Working with a team on a Martian exploration and mapping experience focused on Jezero Crater, exploring planetary data, interactive mapping, and future exploration.
+
+𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 & 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻
+Exploring software architecture, emerging technologies, and opportunities to experiment with new ideas and contribute to the technology ecosystem.
+
+𝗘𝗡𝗧𝗥𝗘𝗣𝗥𝗘𝗡𝗘𝗨𝗥𝗦𝗛𝗜𝗣 & 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡
+I'm deeply interested in technology entrepreneurship, product thinking, and building sustainable technology-driven ventures. I enjoy identifying opportunities, understanding real-world problems, and transforming ideas into meaningful products.
+"𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗱𝗲𝗮 𝗣𝗶𝘁𝗰𝗵𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝘀𝘁 '𝟮𝟲 - 𝗙𝗶𝗻𝗮𝗹𝗶𝘀𝘁"
+
 ### What I'm Working Toward?
 My goal is to become a strong **problem solver and software developer** who can combine creativity with logic to build technology that is genuinely useful.
 I believe the best way to learn is to **build, break, improve, and build again.**
