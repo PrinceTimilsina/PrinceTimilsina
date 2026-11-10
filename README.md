@@ -1,61 +1,56 @@
-# 𝗕𝗘𝗬𝗢𝗡𝗗 𝗖𝗢𝗗𝗘, 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗪𝗛𝗔𝗧'𝗦 𝗣𝗢𝗦𝗦𝗜𝗕𝗟𝗘.
+# Beyond Code, Building What's Possible.
 
-<p align="center">
+<p align="left">
   <img src="./assets/github banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
-### Creative Technologist & Tech Entrepreneur
+### Creative Technologist · Tech Entrepreneur
 
-I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
-My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
+I'm a Computer Science student passionate about **building useful products, solving problems, and turning ideas into working software.**
 
-𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗪𝗢𝗥𝗞 & 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗜𝗩𝗘𝗦 <br>
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘀𝘁𝗿𝗮<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrinceTimilsina/PROJECTASTRA/main/assets/logomain.png" alt="Project Astra Logo" width="180">
-</p>
-Working with a team on a Martian exploration and mapping experience focused on Jezero Crater, exploring planetary data, interactive mapping, and future exploration.
-<br>
-𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 & 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻
+My interests sit at the intersection of **web development, artificial intelligence, and product design**. I learn by building, experimenting, and developing solutions that solve real problems and improve user experiences.
+
+---
+
+## Current Work & Initiatives
+
+### Project Astra
+
+<img src="https://raw.githubusercontent.com/PrinceTimilsina/PROJECTASTRA/main/assets/logomain.png" alt="Project Astra Logo" width="180" align="left" />
+
+Working with a team on a Martian exploration and mapping experience focused on **Jezero Crater**, exploring planetary data, interactive mapping, and future exploration.
+
+<br clear="left"/>
+
+### Technology Research & Innovation
+
 Exploring software architecture, emerging technologies, and opportunities to experiment with new ideas and contribute to the technology ecosystem.
 
-𝗘𝗡𝗧𝗥𝗘𝗣𝗥𝗘𝗡𝗘𝗨𝗥𝗦𝗛𝗜𝗣 & 𝗜𝗡𝗡𝗢𝗩𝗔𝗧𝗜𝗢𝗡
-I'm deeply interested in technology entrepreneurship, product thinking, and building sustainable technology-driven ventures. I enjoy identifying opportunities, understanding real-world problems, and transforming ideas into meaningful products.
-"𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗱𝗲𝗮 𝗣𝗶𝘁𝗰𝗵𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝘀𝘁 '𝟮𝟲 - 𝗙𝗶𝗻𝗮𝗹𝗶𝘀𝘁"
+---
 
-### What I'm Working Toward?
-My goal is to become a strong **problem solver and software developer** who can combine creativity with logic to build technology that is genuinely useful.
+## Entrepreneurship & Innovation
+
+I'm interested in **technology entrepreneurship, product thinking, and building sustainable technology-driven ventures.** I enjoy identifying opportunities, understanding real-world problems, and transforming ideas into meaningful products.
+
+**National Business Idea Pitching Contest '26 — Finalist**
+
+---
+
+## What I'm Working Toward
+
+My goal is to become a strong **problem solver and software developer** who combines creativity with logic to build genuinely useful technology.
+
 I believe the best way to learn is to **build, break, improve, and build again.**
 
-### A Little About Me:
+## Beyond Coding
 
-I see every bug as a puzzle and every project as an opportunity to learn something new. Outside of coding, I enjoy **exploring emerging technologies, brainstorming product ideas, experimenting with new tools, and sharing what I learn.**
+I enjoy exploring emerging technologies, brainstorming product ideas, experimenting with new tools, and sharing what I learn.
 
 🌱 **Always learning. Always building. Always improving.**
 
-### 🌐 Find :
+---
 
-* **Portfolio:** [princetimilsina.com.np](https://princetimilsina.com.np/)
-* **Email:** [timilsinaprince.js@gmail.com](mailto:timilsinaprince.js@gmail.com)
-               
-                  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/princetimilsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princetimilsina" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/princetimilsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princetimilsina" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/princetimilsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="princetimilsina" height="30" width="40" /></a>
-<a href="https://instagram.com/prince.env" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince.env" height="30" width="40" /></a>
-</p>
+## Find Me Around the Web
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-
-
-
-
+- **Portfolio:** [princetimilsina.com.np](https://princetimilsina.com.np/)
+- **Email:** [timilsinaprince.js@gmail.com](mailto:timilsinaprince.js@gmail.com)
