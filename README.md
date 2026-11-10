@@ -9,10 +9,10 @@
 I'm a computer science student passionate about **building useful products, solving problems, and turning ideas into working software**.
 My interests sit at the intersection of **web development,Artificial Intelligence,and product design and developement**. I learn best by building from small tools and experiments to complete projects that solve real problems and improve the user experience.
 
-𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗪𝗢𝗥𝗞 & 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗜𝗩𝗘𝗦
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘀𝘁𝗿𝗮
+𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗪𝗢𝗥𝗞 & 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗜𝗩𝗘𝗦 <br>
+𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗔𝘀𝘁𝗿𝗮<br>
 Working with a team on a Martian exploration and mapping experience focused on Jezero Crater, exploring planetary data, interactive mapping, and future exploration.
-
+<br>
 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 & 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻
 Exploring software architecture, emerging technologies, and opportunities to experiment with new ideas and contribute to the technology ecosystem.
 
