@@ -23,7 +23,7 @@ My interests sit at the intersection of **web development, artificial intelligen
 
 We are a team of individuals brought together by a shared interest in technology, space science, and the possibilities that lie beyond our planet.
 
-Our initiative represents an opportunity to explore ideas beyond conventional boundaries, connect scientific curiosity with technological thinking, and work collaboratively toward meaningful innovation.
+Our initiative represents an opportunity to explore ideas beyond conventional boundaries, connect scientific curiosity with technological thinking.
 [![Repo](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceTimilsina/PROJECTASTRA)
 <br clear="left" />
 
